@@ -1,0 +1,19 @@
+.odd-elem{
+    background-color: hotpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.third-elem{
+    font-size: 24px;
+}
+
+#first{
+    color: lightblue;
+    font-size: 36px;
+}
+
+#second{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
